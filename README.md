@@ -12,7 +12,7 @@ A web application using Flask that implements functionalities related to stock t
 
 ## **How to Run**
 - Clone this repository, open the project and input the following commands:
-- Run 'python3 -m venv.venv' to activate a virtual environment, and then choose it as the active workspace.
+- Run 'python3 -m venv .venv' to activate a virtual environment, and then choose it as the active workspace.
 - Make sure Install dependencies using 'pip install -r requirements.txt'
 - Run 'export FLASK_APP=app.py' to set the Flask environment variable
 - [Configure and export your API key]([https://www.python.org/](https://cs50.harvard.edu/x/2020/tracks/web/finance/#configuring))
