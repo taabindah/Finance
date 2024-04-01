@@ -19,6 +19,15 @@ A web application using Flask that implements functionalities related to stock t
 - Run command 'flask run' to open on localhost
 - Create your own stock portfolio by creating a new account once the finance website opens in your browser.
 
+#
+Kindly take note that the functions for logging in and out as well as all those in helpers.py are part of the assignment starting code and are not original to me. Initial code: ©2020 Malan, David J. Malan/Harvard
+
+
+
+
+
+
+
 
 
 
